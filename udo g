@@ -1,0 +1,62 @@
+[33mcommit 751cb434824f03fda2475c3218542f3c2a790402[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mPatchOne[m[33m)[m
+Author: ali.awan <ali.awan175@gmail.com>
+Date:   Tue Jul 8 08:23:00 2025 +0000
+
+    add java file for stashing
+
+[33mcommit 7cca2db18fff84e707bb8a691811c7ccea473228[m
+Author: ali.awan <ali.awan175@gmail.com>
+Date:   Tue Jul 8 08:16:40 2025 +0000
+
+    change in file fle4.txt
+
+[33mcommit 87d4790a4d764083a70671d9e9413dcf8a3d909f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/PatchOne[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-85-204.ec2.internal>
+Date:   Tue Jul 8 06:46:46 2025 +0000
+
+    Addnew Text File
+
+[33mcommit 7bb7181e1989393e48aec89d733ddfa355b52478[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Fri Jun 20 14:00:59 2025 +0000
+
+    merge file
+
+[33mcommit 50dbe23a2e4441798cb77a2cd26c67a8cbec2deb[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Fri Jun 20 12:35:15 2025 +0000
+
+    add directory
+
+[33mcommit d95ae8edb9bd8598bb081d99d9b96e4f15df564a[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Fri Jun 20 11:57:33 2025 +0000
+
+    add git ignore fiel
+
+[33mcommit de175a2b4b9f4783603ec2c1a6580cab475abf2f[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/Hotfix[m[33m)[m
+Merge: 1772db0 cc4adeb
+Author: ali awan <31938258+786ali786@users.noreply.github.com>
+Date:   Thu Jun 19 11:27:23 2025 +0300
+
+    Merge pull request #1 from 786ali786/feature
+    
+    new file added
+
+[33mcommit cc4adeb302982976bda8b0a29b41d681a554257e[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Thu Jun 19 08:25:25 2025 +0000
+
+    new file added
+
+[33mcommit 1772db091cadc70504ca8addbbf293366dd0340f[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Thu Jun 19 08:14:49 2025 +0000
+
+    file chnages
+
+[33mcommit a6a0b027be720fce112ba43041df9061ab373daf[m
+Author: root <root@ip-172-31-10-141.ap-southeast-2.compute.internal>
+Date:   Thu Jun 19 07:50:18 2025 +0000
+
+    Add all files
